@@ -34,5 +34,5 @@ std::string LikeSystem::likes(const std::vector<std::string>& names)
 		return names.front() + ", " + names[1] + " and " + names.back() + " like this";
 	}
 
-	return names[0] + ", " + names[1] + " and " + std::to_string(names.size() - 2) + " others like this";
+	return names.front() + ", " + names[1] + " and " + std::to_string(names.size() - 2) + " others like this";
 }
