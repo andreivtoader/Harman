@@ -1,0 +1,4 @@
+﻿  ArithmeticProgression.cpp
+d:\work\individualtargets\harman\codewars\arithmetic progression\arithmetic progression\arithmeticprogression.cpp(36): warning C4018: '<': signed/unsigned mismatch
+d:\work\individualtargets\harman\codewars\arithmetic progression\arithmetic progression\arithmeticprogression.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Arithmetic Progression.vcxproj -> D:\Work\IndividualTargets\Harman\Codewars\Arithmetic Progression\Debug\Arithmetic Progression.exe
